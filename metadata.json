@@ -1,0 +1,5 @@
+{
+  "name": "SyncChat",
+  "description": "A real-time room-based chat application using WebSockets.",
+  "requestFramePermissions": ["display-capture", "microphone", "camera"]
+}
